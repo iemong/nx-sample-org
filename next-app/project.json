@@ -12,9 +12,7 @@
         "outputPath": "dist/next-app"
       },
       "configurations": {
-        "dev": {
-          "outputPath": "next-app"
-        },
+        "dev": {},
         "stg": {},
         "prd": {}
       }
